@@ -1,0 +1,21 @@
+{
+	"ImportPath": "github.com/alapidas/watch",
+	"GoVersion": "go1.5",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.8.7",
+			"Rev": "v0.8.7"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/cli",
+			"Comment": "1.2.0-135-gf998261",
+			"Rev": "f9982619ccace7df963bb7f6d1de3a6f014ff709"
+		},
+		{
+			"ImportPath": "gopkg.in/fsnotify.v1",
+			"Comment": "v1.2.9",
+			"Rev": "8611c35ab31c1c28aa903d33cf8b6e44a399b09e"
+		}
+	]
+}
